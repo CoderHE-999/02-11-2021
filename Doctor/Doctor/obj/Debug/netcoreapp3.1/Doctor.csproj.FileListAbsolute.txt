@@ -1,0 +1,14 @@
+C:\Users\husey\Desktop\Assignments\02-11-2021\Doctor\Doctor\bin\Debug\netcoreapp3.1\Doctor.exe
+C:\Users\husey\Desktop\Assignments\02-11-2021\Doctor\Doctor\bin\Debug\netcoreapp3.1\Doctor.deps.json
+C:\Users\husey\Desktop\Assignments\02-11-2021\Doctor\Doctor\bin\Debug\netcoreapp3.1\Doctor.runtimeconfig.json
+C:\Users\husey\Desktop\Assignments\02-11-2021\Doctor\Doctor\bin\Debug\netcoreapp3.1\Doctor.runtimeconfig.dev.json
+C:\Users\husey\Desktop\Assignments\02-11-2021\Doctor\Doctor\bin\Debug\netcoreapp3.1\Doctor.dll
+C:\Users\husey\Desktop\Assignments\02-11-2021\Doctor\Doctor\bin\Debug\netcoreapp3.1\Doctor.pdb
+C:\Users\husey\Desktop\Assignments\02-11-2021\Doctor\Doctor\obj\Debug\netcoreapp3.1\Doctor.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\Assignments\02-11-2021\Doctor\Doctor\obj\Debug\netcoreapp3.1\Doctor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\Assignments\02-11-2021\Doctor\Doctor\obj\Debug\netcoreapp3.1\Doctor.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\Assignments\02-11-2021\Doctor\Doctor\obj\Debug\netcoreapp3.1\Doctor.AssemblyInfo.cs
+C:\Users\husey\Desktop\Assignments\02-11-2021\Doctor\Doctor\obj\Debug\netcoreapp3.1\Doctor.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\Assignments\02-11-2021\Doctor\Doctor\obj\Debug\netcoreapp3.1\Doctor.dll
+C:\Users\husey\Desktop\Assignments\02-11-2021\Doctor\Doctor\obj\Debug\netcoreapp3.1\Doctor.pdb
+C:\Users\husey\Desktop\Assignments\02-11-2021\Doctor\Doctor\obj\Debug\netcoreapp3.1\Doctor.genruntimeconfig.cache

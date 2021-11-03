@@ -1,0 +1,14 @@
+C:\Users\husey\Desktop\Assignments\02-11-2021\SellProduct\bin\Debug\netcoreapp3.1\SellProduct.exe
+C:\Users\husey\Desktop\Assignments\02-11-2021\SellProduct\bin\Debug\netcoreapp3.1\SellProduct.deps.json
+C:\Users\husey\Desktop\Assignments\02-11-2021\SellProduct\bin\Debug\netcoreapp3.1\SellProduct.runtimeconfig.json
+C:\Users\husey\Desktop\Assignments\02-11-2021\SellProduct\bin\Debug\netcoreapp3.1\SellProduct.runtimeconfig.dev.json
+C:\Users\husey\Desktop\Assignments\02-11-2021\SellProduct\bin\Debug\netcoreapp3.1\SellProduct.dll
+C:\Users\husey\Desktop\Assignments\02-11-2021\SellProduct\bin\Debug\netcoreapp3.1\SellProduct.pdb
+C:\Users\husey\Desktop\Assignments\02-11-2021\SellProduct\obj\Debug\netcoreapp3.1\SellProduct.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\Assignments\02-11-2021\SellProduct\obj\Debug\netcoreapp3.1\SellProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\Assignments\02-11-2021\SellProduct\obj\Debug\netcoreapp3.1\SellProduct.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\Assignments\02-11-2021\SellProduct\obj\Debug\netcoreapp3.1\SellProduct.AssemblyInfo.cs
+C:\Users\husey\Desktop\Assignments\02-11-2021\SellProduct\obj\Debug\netcoreapp3.1\SellProduct.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\Assignments\02-11-2021\SellProduct\obj\Debug\netcoreapp3.1\SellProduct.dll
+C:\Users\husey\Desktop\Assignments\02-11-2021\SellProduct\obj\Debug\netcoreapp3.1\SellProduct.pdb
+C:\Users\husey\Desktop\Assignments\02-11-2021\SellProduct\obj\Debug\netcoreapp3.1\SellProduct.genruntimeconfig.cache
